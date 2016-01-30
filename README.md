@@ -1,12 +1,12 @@
-Vue.sf
+Vue.SF
 ======
 
-Vue.sf is a bi-monthly [Vue.js](http://vuejs.org/) gathering group to get together for activities, discussions and talks in San Francisco. The first (ever) Vue.sf meetup is tentatively scheduled for Wednesday, February 10th (2016), however, this will be depenedent upon interest.
+Vue.SF is a bi-monthly [Vue.js](http://vuejs.org/) gathering group to get together for activities, discussions and talks in San Francisco. The first (ever) Vue.sf meetup is tentatively scheduled for Wednesday, February 10th (2016), however, this will be depenedent upon interest.
 
 Want to join?
 -------------
 
-If you are interested in attending, please drop a comment in this issue. Click the <img src="http://beerjs.github.io/sf/assets/watch.png" height="18"> button on this repo (star us too!) to get notified of upcoming meeting dates or date and location changes.
+If you are interested in attending, please drop a comment in this [issue](https://github.com/szarapka/vue.sf/issues/1). Click the <img src="http://beerjs.github.io/sf/assets/watch.png" height="18"> button on this repo (star us too!) to get notified of upcoming meeting dates or date and location changes.
 
 Want to help?
 -------------
